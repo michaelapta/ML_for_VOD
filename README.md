@@ -24,6 +24,7 @@ Buka YoutubechatSCRAPplus.py, masukkan URL video YouTube target (dibagian bawah 
 python YoutubeCHATscrape(BEST).py
 ```
 Data akan tersimpan secara otomatis dalam format vod_raw.csv dan vod_clean.csv. (jangan lupa untuk melabeli data sebelum menggunakannya pada komparasi model)
+pada data vod_raw.csv yang tersedia sudah dilabeli (dapat langsung digunakan).
 
 2. Tahap Klasifikasi & Komparasi
 Jalankan skrip utama untuk melihat hasil analisis:
