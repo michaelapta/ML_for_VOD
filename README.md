@@ -14,7 +14,7 @@ Proyek ini merupakan implementasi penelitian skripsi yang berfokus pada deteksi 
 Pastikan Anda telah menginstal Python 3.8 ke atas. Untuk menginstal semua *library* yang dibutuhkan, jalankan perintah berikut:
 
 ```bash
-pip install pandas numpy scikit-learn xgboost Sastrawi matplotlib seaborn youtube-comment-downloader tqdm
+pip install pandas numpy matplotlib seaborn wordcloud Sastrawi scikit-learn xgboost pytchat tqdm
 ```
 
 ## ⚙️ Cara Penggunaan
@@ -23,7 +23,7 @@ Buka YoutubechatSCRAPplus.py, masukkan URL video YouTube target (dibagian bawah 
 ```bash
 python YoutubeCHATscrape(BEST).py
 ```
-Data akan tersimpan secara otomatis dalam format vod_raw.csv dan vod_clean.csv.
+Data akan tersimpan secara otomatis dalam format vod_raw.csv dan vod_clean.csv. (jangan lupa untuk melabeli data sebelum menggunakannya pada komparasi model)
 
 2. Tahap Klasifikasi & Komparasi
 Jalankan skrip utama untuk melihat hasil analisis:
