@@ -4,7 +4,7 @@ Proyek ini merupakan implementasi penelitian skripsi yang berfokus pada deteksi 
 
 ## 🚀 Fitur Utama
 * **YouTube Scraper:** Pengambilan data komentar hasil live streaming (VOD).
-* **Indonesian NLP Pipeline:** Pemrosesan teks menggunakan pustaka Sastrawi (cleaning, normalisasi, Stopword Removal).
+* **Indonesian NLP Pipeline:** Pemrosesan teks menggunakan pustaka Sastrawi (cleaning, normalisasi, Stopword Removal, lowercase).
 * **Performance Analytics:** Komparasi akurasi (F1-Score) dan efisiensi waktu komputasi secara presisi dengan persyaratan menggunakan 'Base Model' dari kedua model yang akan dikomparasi.
 
 ---
